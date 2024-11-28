@@ -34,7 +34,7 @@ var cookieInfoText = ["Expiration", "Domain", "Controller"];
 
 var bannerShowingDelayed = 0;
 
-var websiteLogo = "https://www.fanshoppe.ca/wp-content/uploads/2022/04/Fanshoppe.ca-logo_250x54_white-background.jpg";
+var websiteLogo = "https://onexsport.co.uk/image/catalog/WhatsApp%20Image%202024-07-27%20at%2006.43.23_47d536f5-Photoroom.png";
 
 var logoWidth = "50px";
 
